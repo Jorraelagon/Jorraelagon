@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Jorraelagon
-C & C++ learning
+***C & C++ learning***
+2D Array,
+c++ STL basic,
+Friend bill splitter program in c++.
